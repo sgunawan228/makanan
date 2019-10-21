@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aplikasi Makanan</string>
+    <string name="optext">Makanan Enak</string>
+    <string name="textharga">textHarga</string>
+    <string name="gbrmakanan">GbrMakanan</string>
+    <string name="deskripsi_makanan">Deskripsi Makanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="harga">Harga :</string>
+    <string name="coba1">coba1</string>
+    <string name="coba2">coba2</string>
+    <string name="coba3">coba3</string>
+    <string name="coba4">coba4</string>
+    <string name="judul_makanan">Menu Makanan</string>
+    <string name="gambar_makanan">gambar makanan</string>
+    <string name="nama">Nama</string>
+    <string name="textview">TextView</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="mharga">Harga</string>
+</resources>
